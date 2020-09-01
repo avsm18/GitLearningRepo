@@ -16,6 +16,8 @@ int main() {
 	
 	
 	printf("For loop done");
+	printf("Wait for while loop");
+	
 	
 	
 	
