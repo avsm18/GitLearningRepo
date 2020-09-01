@@ -4,7 +4,7 @@
 int main() {
 	
 	printf("Hello world !");
-	printf("In dev branch"); // so this is the change which we have to do
+	printf("Hi");  // so this is the change which we have to do
 	
 	
 	
